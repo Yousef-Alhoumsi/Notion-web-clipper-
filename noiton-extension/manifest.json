@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Save to Notion",
+  "version": "1.0",
+  "permissions": ["contextMenus"], 
+  "host_permissions": ["https://api.notion.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
