@@ -1,0 +1,1 @@
+This project was intended to reduce the context-switching cost of copying and pasting text from a browser into a Notion page. In the future, a potential feature would be to make the extension public so anyone can use it and log in to Notion to save text directly.
